@@ -1,0 +1,19 @@
+[{
+    "model": "api.post",
+    "pk": 1,
+    "fields": {
+        "title": "First Post",
+        "content": "Testing a first post...",
+        "author_id": 2
+    }
+},
+{
+    "model": "api.post",
+    "pk": 2,
+    "fields": {
+        "title": "Second Post",
+        "content": "Testing a second post...",
+        "author_id": 2
+    }
+}
+]

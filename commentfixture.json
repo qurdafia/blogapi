@@ -1,0 +1,18 @@
+[{
+    "model": "api.comment",
+    "pk": 1,
+    "fields": {
+        "content": "This is comment 1...",
+        "author_id": 2,
+        "post": 1
+    }
+},
+{
+    "model": "api.comment",
+    "pk": 2,
+    "fields": {
+        "content": "This is comment 2...",
+        "author_id": 2,
+        "post": 2
+    }
+}]

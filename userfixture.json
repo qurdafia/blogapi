@@ -1,0 +1,11 @@
+[
+    {
+      "model": "auth.user",
+      "pk": 2,
+      "fields": {
+        "username": "stoicfella01",
+        "email": "contact@stoicfella.com",
+        "password": "pass123"
+      }
+    }
+]
